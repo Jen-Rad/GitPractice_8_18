@@ -1,6 +1,8 @@
 ### IntelliJ IDEA ###
 GitPractice_8_18.iml
 .idea
+*.iml
+target
 
 out/
 !**/src/main/**/out/
